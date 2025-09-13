@@ -4,7 +4,8 @@
 
 ## 使用
 
-请自行编译。我不喜欢脚本小子和伸手党。
+熊谷 凌：“请自行编译。我不喜欢脚本小子和伸手党。”  
+我：“把[/dist/index.global.js](/dist/index.global.js)文件加载到[篡改猴](https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)里即可”
 
 ## FAQ 是真的么？
 
